@@ -1,0 +1,72 @@
+   Questions :
+
+1. WAP to print the values of two integers before and after swapping.
+
+2. WAP to find the largest number among three numbers.
+
+3. WAP that prints 1_2_4_8_16_32_64_128.
+
+4. WAP to check whether a number is prime or not. 
+
+5. WAP to find out sum of 1st ‘n’ even numbers.
+
+6. WAP to find factorial of a number.
+
+7. WAP to print the sum of the digits.
+
+8. WAP to find the roots of the quadratic equation.
+
+9. WAP to input any number & print them in reverse order using while statement.
+
+10. WAP to get the following pattern :- 
+    *
+    **
+    ***
+    ****
+    *****    
+
+11. WAP for string operation using string function.
+    
+    (i)   To find whether two strings are equal or not. 
+    
+    (ii)  To convert all characters present in the string into lowercase.
+
+    (iii) To find the reverse of the string.
+
+    (iv)  To find whether the variable is a digit or not.
+
+    (v)  To convert the letter into uppercase.
+
+12. WAP to find the number of vowels, digits, consonants, & other characters given in a string.
+
+13. WAP to find transpose of 2 x 3 matrix.
+
+14. WAP to find the sum of two 3 x 3 matrix.
+
+15. WAP to read and check the equality of two matrix.
+
+16. WAP to calculate the total salary of ‘n’ employees & find who gets the highest salary.
+   
+17. Declare the structures and class(use appropriate access specifier) having following feeds and functions to print them :-
+
+    (i) Item number.
+
+    (ii) Item name.
+
+    (iii) Price.
+
+    (iv) Quantity present in stock.
+
+18. Declare two structures one is called employee: code, name, address, mobile no., salary & second is called allowances : 
+    DA=65% of salary
+    HRA=15% of salary
+    net=salary+DA+HRA.
+    WAP to calculate the net salary of an employee. Also implement same concept with classes and objects.
+
+19. WAP to read the noon-day temp. for each day of the month and then reports the months average temp. as well as its hottest & coolest day of the Monday.
+
+20. WAP to input an array number with 10 different integer values and search a particular value & its position in the array.   
+                                    
+---------**********---------
+
+
